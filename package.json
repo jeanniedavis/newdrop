@@ -21,7 +21,7 @@
   "homepage": "https://github.com/apainintheneck/newsdrop#readme",
   "dependencies": {
     "ejs": "^3.1.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "milsymbol": "^2.0.0",
     "mysql": "^2.18.1"
   },
